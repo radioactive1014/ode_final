@@ -1,0 +1,11 @@
+﻿Build started 26.2.2015 8:37:11.
+     1>Project "C:\svn\ThirdParty\ode-0.12\build\vs2012\ode.vcxproj" on node 2 (Build target(s)).
+     1>C:\Program Files (x86)\MSBuild\Microsoft.Cpp\v4.0\V110\Microsoft.CppBuild.targets(1299,5): warning MSB8012: TargetPath(C:\svn\ThirdParty\ode-0.12\build\vs2012\..\..\lib\ReleaseSingleLib\ode.lib) does not match the Library's OutputFile property value (C:\svn\ThirdParty\ode-0.12\lib\ReleaseSingleLib\ode_single.lib). This may cause your project to build incorrectly. To correct this, please make sure that $(OutDir), $(TargetName) and $(TargetExt) property values match the value specified in %(Lib.OutputFile).
+     1>C:\Program Files (x86)\MSBuild\Microsoft.Cpp\v4.0\V110\Microsoft.CppBuild.targets(1301,5): warning MSB8012: TargetName(ode) does not match the Library's OutputFile property value (ode_single). This may cause your project to build incorrectly. To correct this, please make sure that $(OutDir), $(TargetName) and $(TargetExt) property values match the value specified in %(Lib.OutputFile).
+     1>Lib:
+         ode.vcxproj -> C:\svn\ThirdParty\ode-0.12\build\vs2012\..\..\lib\ReleaseSingleLib\ode.lib
+     1>Done Building Project "C:\svn\ThirdParty\ode-0.12\build\vs2012\ode.vcxproj" (Build target(s)).
+
+Build succeeded.
+
+Time Elapsed 00:00:00.23
